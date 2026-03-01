@@ -1,4 +1,4 @@
-<img width="392" height="794" alt="image" src="https://github.com/user-attachments/assets/a4e4b85e-1992-4caf-9ecb-fef22442acaf" /># Olá, eu sou o Elisson 👋
+# Olá, eu sou o Elisson 👋
 
 💻 Desenvolvedor Web  
 🚀 Foco em Sites, Landing Pages e E-commerces  
