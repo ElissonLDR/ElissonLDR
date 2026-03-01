@@ -1,16 +1,18 @@
-## Hi there 👋
+<img width="392" height="794" alt="image" src="https://github.com/user-attachments/assets/a4e4b85e-1992-4caf-9ecb-fef22442acaf" /># Olá, eu sou o Elisson 👋
 
-<!--
-**ElissonLDR/ElissonLDR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Web  
+🚀 Foco em Sites, Landing Pages e E-commerces  
+🎯 Especialista em WordPress, HTML e CSS  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+
+HTML • CSS • WordPress • JavaScript • Figma
+
+---
+
+## 📫 Contato
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elissonldr/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elissondias/)
