@@ -13,7 +13,7 @@ HTML • CSS • WordPress • JavaScript • Figma
 ---
 
 ## 📊 GitHub Stats
-<div align="center" style="display: flex; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ElissonLDR&theme=github_dark"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ElissonLDR&theme=github_dark"/>
 </div>
