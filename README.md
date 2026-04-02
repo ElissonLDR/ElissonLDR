@@ -13,22 +13,9 @@ HTML • CSS • WordPress • JavaScript • Figma
 ---
 
 ## 📊 GitHub Stats
-<!-- Linguagens mais usadas (em lista, sem gráfico) -->
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ElissonLDR&theme=github_dark"/>
-</div>
-
-<br>
-
-<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ElissonLDR&theme=github_dark"/>
-</div>
-
-<br>
-
-<!-- Extras visuais leves -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ElissonLDR&color=blue"/>
 </div>
 
 ---
