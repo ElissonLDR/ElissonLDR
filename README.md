@@ -13,10 +13,10 @@ HTML • CSS • WordPress • JavaScript • Figma
 ---
 
 ## 📊 GitHub Stats
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElissonLDR&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ElissonLDR&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ElissonLDR&theme=github_dark"/>
-
+<img src="https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/WordPress-000?style=for-the-badge&logo=wordpress"/>
 ---
 
 ## 📫 Contato
