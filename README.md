@@ -7,8 +7,14 @@
 ---
 
 ## 🚀 Tecnologias
-
-HTML • CSS • WordPress • JavaScript • Figma
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php"/>
+  <img src="https://img.shields.io/badge/WordPress-000?style=for-the-badge&logo=wordpress"/>
+  <img src="https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma"/>
+</div>
 
 ---
 
