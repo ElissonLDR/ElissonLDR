@@ -20,8 +20,19 @@
 
 ## 📊 GitHub Stats
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ElissonLDR&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ElissonLDR&theme=github_dark"/>
+</div>
+
+<!-- Stats com números -->
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ElissonLDR&theme=github_dark"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ElissonLDR&theme=github_dark&utcOffset=-3"/>
+</div>
+
+<!-- Linguagem mais usada por commit -->
+<div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ElissonLDR&theme=github_dark"/>
 </div>
 
 ---
