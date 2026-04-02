@@ -13,42 +13,22 @@ HTML • CSS • WordPress • JavaScript • Figma
 ---
 
 ## 📊 GitHub Stats
-<!-- Linguagens mais usadas -->
+<!-- Linguagens mais usadas (em lista, sem gráfico) -->
 <div align="center">
-  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ElissonLDR&layout=compact&langs_count=6&theme=vue-dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ElissonLDR&theme=github_dark"/>
 </div>
 
 <br>
 
-<!-- Tech Stack -->
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3"/>
-  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/WordPress-000?style=for-the-badge&logo=wordpress"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ElissonLDR&theme=github_dark"/>
 </div>
 
 <br>
 
-<!-- Atividade recente -->
+<!-- Extras visuais leves -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ElissonLDR&theme=github-dark"/>
-</div>
-
-<br>
-
-<!-- Streak -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ElissonLDR&theme=dark"/>
-</div>
-
-<br>
-
-<!-- Projeto em destaque -->
-<div align="center">
-  <a href="https://github.com/ElissonLDR/woo-products-filter">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ElissonLDR&repo=woo-products-filter&theme=vue-dark"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=ElissonLDR&color=blue"/>
 </div>
 
 ---
